@@ -1,0 +1,14 @@
+error :No Presto metadata available for base
+
+fix :  yum update
+=========================
+
+error : deltarpm was missing
+
+fix: yum install deltarpm
+
+==================
+
+nnormal prompt 
+
+PS1='[\u@\h \W]\$'
