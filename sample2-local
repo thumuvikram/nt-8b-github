@@ -1,0 +1,9 @@
+Q. Repo -- if Local repo or remote repo originated ??
+
+A. 1. use # git config --list 
+
+	....
+	....	
+	remote.origin.url
+
+   2. # git remote -v
