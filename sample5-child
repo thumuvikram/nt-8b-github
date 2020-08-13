@@ -1,0 +1,12 @@
+Q. How to find the current branch info ?
+
+	# git branch
+
+	# git status
+
+Q. How to create a branch?
+
+	Rule : make sure git status command we should get wtc( working Tree clean)
+
+	# git branch <br_name>
+
